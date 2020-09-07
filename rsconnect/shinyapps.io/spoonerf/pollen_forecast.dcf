@@ -1,0 +1,12 @@
+name: pollen_forecast
+title: pollen_forecast
+username:
+account: spoonerf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2765146
+bundleId: 3602904
+url: https://spoonerf.shinyapps.io/pollen_forecast/
+when: 1599494731.61748
+asMultiple: FALSE
+asStatic: FALSE
